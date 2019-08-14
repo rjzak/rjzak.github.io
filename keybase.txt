@@ -1,0 +1,66 @@
+==================================================================
+https://keybase.io/rjzak
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://rjzak.github.io
+  * I am rjzak (https://keybase.io/rjzak) on keybase.
+  * I have a public key with fingerprint 0B12 C074 CFEE 5EC2 F2A7  37D4 FF07 22A6 B38E 9F42
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "0b12c074cfee5ec2f2a737d4ff0722a6b38e9f42",
+            "host": "keybase.io",
+            "key_id": "ff0722a6b38e9f42",
+            "kid": "010181f91ebed9c65a962a6bc57180bdda4c29b1d5103fee4c4c262cb101fd25f2370a",
+            "uid": "44ab0ee8f5851c332928a347090c6519",
+            "username": "rjzak"
+        },
+        "service": {
+            "hostname": "rjzak.github.io",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1441238945,
+    "expire_in": 157680000,
+    "prev": "bbb91a0779a27d7cc7a880c10218becfd4ac062f2b293a4b4ad35cbf965cffa8",
+    "seqno": 5,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Comment: GPGTools - https://gpgtools.org
+
+owFtkl1IFFEUx3d1M10TzaIIJGnqyVaduTOzM7P2UGpQuPhgaQTZdu+dO+usurPu
+zvot9kFghR9JEj2IoGSgL4ElQqlBIUqQJX2SWmkgRg+mPfSg1B0r6KH7cjnn/M/v
+3P+9tyMp1ua0/9zK9A+19eTany4jW/FS+0ADgwy1jvE0MOVkc9P0oJ+EQ2E9aDIe
+hkUcwKwkYI0QkWCgASjxkipoGisBAN2Il4miCYBxMWVGxOqgGAQjJEs3aI4GPl2l
+2f/oyzcLLMdyMqcpHEFEVbBbhIrb0mFR4mQWqSoUMFAQp4ocy9NDCJjGboAR7dNU
+IGqAl1hIcdFNnCBAxBIia6IscpjngQJkyAsSq7CUzSmWMELCQVhJqDocqIflTJOL
+oalqHRPLv2Xj33KWXzfLoui3n1DYMA1sVNBimWmGIh6r2awLWeoagnx/OD6kB1V6
+j7SjmoQjuhFkPBxVYlO3wJwgcICXFUF0MaQ2pIeJT7cUouSWWbqsOaSaIhFCCgdZ
+SVIgkFQJYwnKMos5FnAyIlhTBYhZN30UBBQeCkiAKi9ipCluEWsalBnLWVXQYDx0
+kgn9FBnR/UFoRsOEiWlyXrGnOWx2py1uS4z1F2zOhJS/HyTgiLf1erMOJhyePzey
+o9EsaR7MOU/U26OewNXx50XxVV0xxgo4tT7XVgjWrt+62Hfs9MjdmWhe6WzNic96
+S9Pqe2d/p2d7+nhsbcery57sRxVmU9X6pBQrhToftkcnB98NTZzNlB2XRl+n3E+M
+5DhqF71ICW5kJJ98PDV2LflA9lifIz9t74OGL08yBuTJQPV+L+qWN3rrX86P2Cvf
+HGrN5FdLv3Yc4Z2uZWRO7Qoc/+5+UZOYkNo2nFvUY8wtfNCPrnV/itt3pjVxSY9+
+65xfmSnRmImPNxccuxeTdqZPe73PXC0FealkernxzvDsnoGC/HvNXb63P4rJtskb
+hcsXfgE=
+=qua9
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/rjzak
+
+==================================================================
